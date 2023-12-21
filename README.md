@@ -1,0 +1,2 @@
+# funAnimations
+Some fun animations
